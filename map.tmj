@@ -207,7 +207,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -318,7 +318,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -439,7 +439,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -550,7 +550,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -671,7 +671,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -782,7 +782,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -903,7 +903,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
@@ -1014,7 +1014,7 @@
                                 {
                                  "name":"tag",
                                  "type":"string",
-                                 "value":"editor"
+                                 "value":"sponsor"
                                 }, 
                                 {
                                  "name":"zone",
